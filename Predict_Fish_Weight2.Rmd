@@ -138,4 +138,7 @@ The best model for adjusted r squared value is  0.8482
 
 ## Final Summary Statements
 
+Looking at the data from lowest to highest roach is at .8482 , then followed by perch at .94 and finally with the highest score pike at .96 thus making it the best model
+
+
 
