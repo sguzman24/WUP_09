@@ -51,6 +51,10 @@ print(results)
 
 
 ### Best Two regressor model
+```{r}
+perchModel=lm(Weight~Height+Width, data=perch)
+summary(perchModel)
+```
 
 
 ## Pike
